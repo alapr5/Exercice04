@@ -1,0 +1,9 @@
+ex04
+
+9/10
+
+Exercice04 -> exercice04
+
+(-1) var Task = super.copy(); -> var task = super.copy();
+voir https://www.dartlang.org/articles/style-guide/
+
